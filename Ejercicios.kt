@@ -20,7 +20,7 @@ fun isPalindrome(cadena: String): Boolean {
 }
 
 /* 4. Saludos a nombres con map */
-val nombres = listOf("Alicia", "Juan", "Pedro")
+val nombres = listOf("Ricardo", "Jonathan", "Sofia")
 val saludos = nombres.map { "¡Hola, $it!" }
 
 /* 5. Operación con enteros y lambda */
