@@ -77,7 +77,7 @@ fun main() {
 
     println("Ejercicio 6:")
     for (estudiante in estudiantes) {
-        println("El Estudiante ${estudiante.name} tiene ${estudiante.age} años.")
+        println("* El Estudiante ${estudiante.name} tiene ${estudiante.age} años.")
         println()
     }
 }
