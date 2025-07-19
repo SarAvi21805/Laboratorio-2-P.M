@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="478b9e0d-5e79-441c-8509-3f61158f8beb" name="Changes" comment="Se trabajó en el código para resolver los 6 ejercicios propuestos en la tarea del laboratorio 2.">
+    <list default="true" id="478b9e0d-5e79-441c-8509-3f61158f8beb" name="Changes" comment="Se coorrigió un aspecto de formato en la salida del código para el ejercicio 6.">
       <change beforePath="$PROJECT_DIR$/Ejercicios.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Ejercicios.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1752899955415</updated>
       <workItem from="1752899956529" duration="795000" />
-      <workItem from="1752937886397" duration="554000" />
+      <workItem from="1752937886397" duration="1973000" />
     </task>
     <task id="LOCAL-00001" summary="Se trabajó en el código para resolver los 6 ejercicios propuestos en la tarea del laboratorio 2.">
       <option name="closed" value="true" />
@@ -86,7 +86,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752938366308</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Se coorrigió un aspecto de formato en la salida del código para el ejercicio 6.">
+      <option name="closed" value="true" />
+      <created>1752941600784</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752941600784</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +102,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Se trabajó en el código para resolver los 6 ejercicios propuestos en la tarea del laboratorio 2." />
-    <option name="LAST_COMMIT_MESSAGE" value="Se trabajó en el código para resolver los 6 ejercicios propuestos en la tarea del laboratorio 2." />
+    <MESSAGE value="Se coorrigió un aspecto de formato en la salida del código para el ejercicio 6." />
+    <option name="LAST_COMMIT_MESSAGE" value="Se coorrigió un aspecto de formato en la salida del código para el ejercicio 6." />
   </component>
 </project>
